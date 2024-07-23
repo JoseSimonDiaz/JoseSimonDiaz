@@ -2,7 +2,7 @@
 Soy un apasionado y entusiasta futuro programador de Tucumán - Argentina. Actualmente, estoy cursando el primer año de Ingeniería en Sistemas de Información en la UTN - Facultad Regional de Tucumán y, además, me estoy formando como desarrollador web full stack.<br><br>Mi motivación es aprender y crecer en el mundo de la tecnología. Estoy siempre en busca de nuevas oportunidades para aplicar mis conocimientos y participar en proyectos desafiantes. Me entusiasma la idea de colaborar con equipos dinámicos y creativos, resolviendo problemas y desarrollando soluciones innovadoras.<br><br>Mis principales fortalezas son la proactividad, la capacidad de trabajo en equipo y el deseo constante de superar expectativas. Estoy listo para enfrentar desafíos y contribuir de manera significativa en cada proyecto en el que participe.
 
 
-## 🌐 Socials:
+## Redes🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoseSimonDiaz) 
 
 # Tecnologias que conozco👨🏻‍💻💻:

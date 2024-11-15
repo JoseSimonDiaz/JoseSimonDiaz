@@ -1,5 +1,5 @@
-# Hola👋🏻, Soy José !!!
-
+# Hola👋🏻, Soy José Simón Díaz!!!
+# Full Stack Developer
 ## Redes🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoseSimonDiaz) 
 

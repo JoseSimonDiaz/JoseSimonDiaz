@@ -71,7 +71,7 @@
 ###
 
 <div align="left">
-  <a href="[Tu enlace de Spotify]" target="_blank">
+  <a href="https://open.spotify.com/user/31rcyvmm6wupmisj6quw7gl3ybei" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rcyvmm6wupmisj6quw7gl3ybei&count=5&width=300" alt="Spotify recently played"  />
   </a>
 </div>

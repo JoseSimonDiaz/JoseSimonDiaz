@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Tecnologías que conozco 👨🏻‍💻💻:</p>
+<h2 align="left">Technologies I know 👨🏻‍💻💻:</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Redes 🌐:</p>
+<h2 align="left">Networks 🌐:</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JoseSimonDiaz&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Repositorios Destacados
+### 🔝 Featured Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=JoseSimonDiaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---

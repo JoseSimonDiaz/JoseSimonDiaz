@@ -80,22 +80,6 @@
 
 ---
 
-## 🔝 Featured Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JoseSimonDiaz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
-</p>
-
----
-
-## 🎧 Currently Listening
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31rcyvmm6wupmisj6quw7gl3ybei">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rcyvmm6wupmisj6quw7gl3ybei&count=5&width=350" alt="Spotify recently played" />
-  </a>
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" alt="footer" />

@@ -63,9 +63,9 @@ Formato: *Como [actor] quiero [acción] para [beneficio]*. Prioridad: **MVP** / 
 
 | | Tickets | Puntos |
 |---|---|---|
-| **MVP** | **21** (DEV-01–03, 06, 07, 11–13, 15–21, 23, 25, 26 + ver tabla) | **~75** |
-| Post-MVP | 16 | ~94 |
-| **Total** | **37** | **~169** |
+| **MVP** | **18** (DEV-01–03, 06, 07, 11–13, 15–21, 23, 25, 26) | **66** |
+| Post-MVP | 19 | 89 |
+| **Total** | **37** | **155** |
 
 ## Plan de sprints (2 semanas, ~20 pts)
 
@@ -79,8 +79,8 @@ Formato: *Como [actor] quiero [acción] para [beneficio]*. Prioridad: **MVP** / 
 | S6 | POO + recompensas | DEV-28, 31, 32 (16 pts) |
 | S7 | SQL + minijuegos | DEV-29, 22, 30 (17 pts) |
 | S8 | Asistente y admin | DEV-24, 33, 09 (19 pts) |
-| S9 | Seguridad, métricas, calidad | DEV-10, 34, 35, 36 (14 pts) |
+| S9 | Seguridad, métricas, calidad | DEV-10, 14, 34, 35, 36 (19 pts) |
 | S10 | Release | DEV-37 + bugs/pulido |
 
-**MVP: 21 tickets en 4 sprints (~8 semanas). Producto completo: 37 tickets en ~10 sprints (~20 semanas).**
+**MVP: 18 tickets en 4 sprints (~8 semanas). Producto completo: 37 tickets en ~10 sprints (~20 semanas).**
 Si se trabaja contra reloj, recortar a 8 sprints sacando DEV-24 (asistente IA → solo pistas), DEV-33 (editar JSON a mano) y DEV-34.

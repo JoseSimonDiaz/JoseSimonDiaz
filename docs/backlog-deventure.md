@@ -22,8 +22,8 @@ Formato: *Como [actor] quiero [acción] para [beneficio]*. Prioridad: **MVP** / 
 
 | ID | Épica | Historia de usuario | Criterios de aceptación | Pts | Prioridad |
 |---|---|---|---|---|---|
-| DEV-01 | E0 | Como equipo quiero definir motor/plataforma y repositorio para trabajar en paralelo | Repo creado, motor elegido (ej. Unity/Godot), ramas y convenciones | 3 | MVP |
-| DEV-02 | E0 | Como equipo quiero una arquitectura de datos para niveles (JSON/ScriptableObjects) para agregar niveles sin recodificar | Un nivel se carga desde archivo de datos | 5 | MVP |
+| DEV-01 | E0 | Como equipo quiero definir el stack (React + Express + PostgreSQL, microservicios) y el monorepo para trabajar en paralelo | Monorepo creado, stack documentado en ADR-001, ramas y convenciones | 3 | MVP |
+| DEV-02 | E0 | Como equipo quiero un modelo de datos de zonas, niveles y desafíos en PostgreSQL para agregar niveles sin recodificar | Tablas con migraciones; un nivel se carga desde la base | 5 | MVP |
 | DEV-03 | E1 | Como jugador quiero ver el logo y los botones Jugar/Ajustes/Salir para empezar | Pantalla de inicio funcional, Salir cierra el juego | 2 | MVP |
 | DEV-04 | E1 | Como jugador quiero silenciar o bajar la música | Slider de volumen + mute, se persiste | 2 | Post-MVP |
 | DEV-05 | E1 | Como jugador quiero ajustar el brillo | Slider de brillo aplicado globalmente y persistido | 2 | Post-MVP |
@@ -31,7 +31,7 @@ Formato: *Como [actor] quiero [acción] para [beneficio]*. Prioridad: **MVP** / 
 | DEV-07 | E2 | Como jugador quiero que mi progreso se guarde automáticamente | Al completar nivel se guarda; al reabrir se recupera | 5 | MVP |
 | DEV-08 | E2 | Como jugador quiero consultar qué niveles y desafíos completé | Pantalla de progreso con % por zona | 3 | Post-MVP |
 | DEV-09 | E2 | Como jugador quiero elegir entre varios perfiles guardados | Lista de perfiles, seleccionar/eliminar | 3 | Post-MVP |
-| DEV-10 | E2 | Como admin quiero que el guardado esté protegido para evitar trampas | Archivo cifrado o con checksum; si se altera se detecta | 3 | Post-MVP |
+| DEV-10 | E2 | Como admin quiero que el progreso esté protegido para evitar trampas | Solo el servidor modifica el progreso con JWT válido; intentos inválidos se rechazan y registran | 3 | Post-MVP |
 | DEV-11 | E3 | Como jugador quiero que un personaje me presente el juego y su dinámica | Diálogo de intro con texto, se puede avanzar/saltar | 3 | MVP |
 | DEV-12 | E3 | Como jugador quiero ver un mapa con zonas y niveles | Mapa con nodos de nivel, estado bloqueado/desbloqueado/completado | 5 | MVP |
 | DEV-13 | E3 | Como jugador quiero que se desbloquee el siguiente nivel al superar uno | Nivel N+1 se habilita al completar N | 3 | MVP |
@@ -58,7 +58,7 @@ Formato: *Como [actor] quiero [acción] para [beneficio]*. Prioridad: **MVP** / 
 | DEV-34 | E8 | Como admin quiero consultar estadísticas básicas del juego | Ver jugadores y niveles completados | 3 | Post-MVP |
 | DEV-35 | E9 | Como equipo quiero pruebas de usabilidad con usuarios sin conocimientos | Test con ≥3 personas, cambios aplicados | 3 | Post-MVP |
 | DEV-36 | E9 | Como equipo quiero optimizar rendimiento y corregir bugs | Sin bloqueos, carga < 2 s | 5 | Post-MVP |
-| DEV-37 | E9 | Como equipo quiero generar el build final y documentación | Ejecutable + manual de usuario | 3 | Post-MVP |
+| DEV-37 | E9 | Como equipo quiero desplegar la versión final y generar la documentación | App desplegada por URL + manual de usuario y documentación técnica | 3 | Post-MVP |
 | DEV-38 | E10 | Como equipo quiero un api-gateway que valide JWT y enrute a cada servicio | Rutas /auth, /content, /gameplay, /progress, /rewards; rate limit y CORS | 5 | MVP |
 | DEV-39 | E10 | Como equipo quiero un service-kit compartido (logger, errores, health, correlation-id) | Paquete usado por todos los servicios | 5 | MVP |
 | DEV-40 | E10 | Como equipo quiero un paquete de contratos (DTOs y eventos con Zod) | Tipos compartidos entre servicios y web | 3 | MVP |

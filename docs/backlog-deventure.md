@@ -16,6 +16,7 @@ Formato: *Como [actor] quiero [acción] para [beneficio]*. Prioridad: **MVP** / 
 | E7 | Recompensas y galería | Alcance: galería |
 | E8 | Administración de contenido | RF10 |
 | E9 | Calidad y cierre | RNF01–07 |
+| E10 | Infraestructura de microservicios | RNF04, RNF06 |
 
 ## Tickets
 
@@ -58,14 +59,23 @@ Formato: *Como [actor] quiero [acción] para [beneficio]*. Prioridad: **MVP** / 
 | DEV-35 | E9 | Como equipo quiero pruebas de usabilidad con usuarios sin conocimientos | Test con ≥3 personas, cambios aplicados | 3 | Post-MVP |
 | DEV-36 | E9 | Como equipo quiero optimizar rendimiento y corregir bugs | Sin bloqueos, carga < 2 s | 5 | Post-MVP |
 | DEV-37 | E9 | Como equipo quiero generar el build final y documentación | Ejecutable + manual de usuario | 3 | Post-MVP |
+| DEV-38 | E10 | Como equipo quiero un api-gateway que valide JWT y enrute a cada servicio | Rutas /auth, /content, /gameplay, /progress, /rewards; rate limit y CORS | 5 | MVP |
+| DEV-39 | E10 | Como equipo quiero un service-kit compartido (logger, errores, health, correlation-id) | Paquete usado por todos los servicios | 5 | MVP |
+| DEV-40 | E10 | Como equipo quiero un paquete de contratos (DTOs y eventos con Zod) | Tipos compartidos entre servicios y web | 3 | MVP |
+| DEV-41 | E10 | Como equipo quiero un bus de eventos con RabbitMQ | Publicar/consumir LevelCompleted entre gameplay, progress y rewards | 5 | MVP |
+| DEV-42 | E10 | Como equipo quiero levantar todo con docker-compose | Un comando levanta servicios, Postgres y RabbitMQ | 3 | MVP |
+| DEV-43 | E10 | Como equipo quiero CI por servicio en GitHub Actions | Lint, typecheck, tests y build solo de lo que cambió | 3 | MVP |
+| DEV-44 | E10 | Como equipo quiero el patrón outbox para no perder eventos | Evento guardado en la misma transacción y publicado luego | 5 | Post-MVP |
+| DEV-45 | E10 | Como equipo quiero observabilidad (OpenTelemetry + Jaeger) | Traza de un pedido a través de todos los servicios | 5 | Post-MVP |
+| DEV-46 | E10 | Como equipo quiero tests de contrato entre servicios | Falla el CI si un servicio rompe el contrato de otro | 3 | Post-MVP |
 
 ## Resumen
 
 | | Tickets | Puntos |
 |---|---|---|
-| **MVP** | **18** (DEV-01–03, 06, 07, 11–13, 15–21, 23, 25, 26) | **66** |
-| Post-MVP | 19 | 89 |
-| **Total** | **37** | **155** |
+| **MVP** | **24** (DEV-01–03, 06, 07, 11–13, 15–21, 23, 25, 26, 38–43) | **90** |
+| Post-MVP | 22 | 102 |
+| **Total** | **46** | **192** |
 
 ## Plan de sprints (2 semanas, ~20 pts)
 

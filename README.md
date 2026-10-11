@@ -22,8 +22,6 @@
 - 🌱 Constantly learning and improving my skills.
 - 📫 Reach me at **diazjosesimon001@gmail.com**
 
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -45,9 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
-
 **Tools & Design**
-
 <p>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -55,16 +51,11 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
-
----
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseSimonDiaz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseSimonDiaz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JoseSimonDiaz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 </p>

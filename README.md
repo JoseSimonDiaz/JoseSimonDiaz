@@ -12,7 +12,6 @@
   <a href="https://www.instagram.com/joseep3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=JoseSimonDiaz&style=for-the-badge&color=2575fc&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
----
 ## 👨🏻‍💻 About Me
 
 - 💼 **Full Stack Developer** focused on building modern, responsive and scalable web applications.

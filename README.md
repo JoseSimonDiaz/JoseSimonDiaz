@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=José%20Simón%20Díaz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jos%C3%A9!;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+TypeScript;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/josesimondiaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:diazjosesimon001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>

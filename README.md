@@ -13,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=JoseSimonDiaz&style=for-the-badge&color=2575fc&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 ## 👨🏻‍💻 About Me
-
 - 💼 **Full Stack Developer** focused on building modern, responsive and scalable web applications.
 - ⚛️ I work mainly with **React**, **TypeScript** and **Node.js / Express**.
 - 🗄️ Experience with both **SQL (MySQL)** and **NoSQL (MongoDB)** databases.

@@ -1,8 +1,39 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=José%20Simón%20Díaz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" />
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jos%C3%A9!;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+TypeScript;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/josesimondiaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:diazjosesimon001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/joseep3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JoseSimonDiaz&style=for-the-badge&color=2575fc&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+## 👨🏻‍💻 About Me
+- 💼 **Full Stack Developer** focused on building modern, responsive and scalable web applications.
+- ⚛️ I work mainly with **React**, **TypeScript** and **Node.js / Express**.
+- 🗄️ Experience with both **SQL (MySQL)** and **NoSQL (MongoDB)** databases.
+- 🎨 I care about design and UX — I prototype in **Figma** and **Canva**.
+- 🌱 Constantly learning and improving my skills.
+- 📫 Reach me at **diazjosesimon001@gmail.com**
 
 ## 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
 **Backend & Databases**
 
 <p>

@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=José%20Simón%20Díaz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" />
 </p>
 
-## 👨🏻‍💻 About Me
-- 💼 **Full Stack Developer** focused on building modern, responsive and scalable web applications.
-- ⚛️ I work mainly with **React**, **TypeScript** and **Node.js / Express**.
-- 🗄️ Experience with both **SQL (MySQL)** and **NoSQL (MongoDB)** databases.
-- 🎨 I care about design and UX — I prototype in **Figma** and **Canva**.
-- 🌱 Constantly learning and improving my skills.
-- 📫 Reach me at **diazjosesimon001@gmail.com**
-
 ## 🛠️ Tech Stack
 
 **Frontend**

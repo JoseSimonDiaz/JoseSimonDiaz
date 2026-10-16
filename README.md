@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=José%20Simón%20Díaz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/josesimondiaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:diazjosesimon001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/joseep3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JoseSimonDiaz&style=for-the-badge&color=2575fc&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
 ## 👨🏻‍💻 About Me
 - 💼 **Full Stack Developer** focused on building modern, responsive and scalable web applications.
 - ⚛️ I work mainly with **React**, **TypeScript** and **Node.js / Express**.
